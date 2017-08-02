@@ -16,3 +16,5 @@ const accessoryData = [
       'The Pelican 1510 Carry-On Case with Foam Set (Black) is an unbreakable, watertight, airtight, dustproof, chemical-resistant, and corrosion-proof hard case used to carry any kind of equipment that needs to be protected from the elements. It is made of an ultra-high impact structural copolymer that makes it extremely strong and durable. It has a 0.25" neoprene O-ring, and includes an automatic purge valve for quick equalization after changes in atmospheric pressure. It has a hinged case with double ABS latches that seal perfectly, and padlock protectors that provide added strength and extra security against cutting and theft.'
   }
 ];
+
+module.exports = accessoryData;
