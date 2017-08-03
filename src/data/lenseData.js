@@ -1,4 +1,4 @@
-const lensesData = [
+const lenseData = [
   {
     id: 1,
     model: "Leica Vario-Elmarit-SL 24-90mm f/2.8-4 ASPH Lens",
@@ -10,7 +10,7 @@ const lensesData = [
   {
     id: 2,
     model: "Fujifilm XF 50-140mm f/2.8 R LM OIS WR Lens",
-    picture: require(""),
+    picture: require("../images/Fujifilm-lens.jpg"),
     price: "$1,599.00",
     description:
       "A telephoto zoom designed for use in trying conditions, Fujifilm's XF 50-140mm f/2.8 R LM OIS WR Lens is a weather-sealed optic spanning the popular 76-213mm equivalent focal length range and featuring a constant f/2.8 maximum aperture. Built for Fujifilm X-mount mirrorless digital cameras, this fast zoom further extends itself through the incorporation of a sophisticated lens design, highly effective optical image stabilization system, and a Triple Linear Motor AF system for refined performance. Comprised of 23 elements in 16 groups, the optical design incorporates five extra-low dispersion (ED) elements and one Super ED element to markedly reduce chromatic aberrations and color fringing throughout the zoom range. Additionally, a Nano-GI coating has also been applied to elements to alter the refractive index in between elements to minimize surface reflections and prevent lens flare and ghosting. This lens also sees the incorporation of 20 distinct weather seals across the barrel to render it both moisture and dust-sealed for use in inclement conditions as low as 14°F. An inner focusing and inner zoom design further help to prevent dust from entering the lens while also benefiting overall handling."
@@ -25,4 +25,4 @@ const lensesData = [
   }
 ];
 
-module.exports = lensesData;
+module.exports = lenseData;
