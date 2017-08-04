@@ -6,9 +6,9 @@ let style = {
     fontFamily: "Monad",
     fontSize: 60,
     backgroundColor: "#1d2120",
-    color: "white",
+    color: "#e9ece5",
     margin: "-2rem 0rem 0rem 0rem",
-    padding: 0
+    padding: "2rem"
   }
 };
 
