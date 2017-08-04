@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-
 import cameraData from "../data/cameraData";
 
 export default class Cameras extends Component {
