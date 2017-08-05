@@ -18,7 +18,7 @@ const lenseData = [
   {
     id: 3,
     model: "Lomo LC-A MINITAR-1 Art Lens 2.8/32 M",
-    picture: require("../images/Lomo-lens.jpg"),
+    picture: require("../images/lomoLensSquare.jpg"),
     price: "$389.00",
     description:
       "The Lomo LC-A Minitar-1 Art Lens is the latest addition to the Lomo LC-A legacy. Featuring the original optics of our signature camera, the lens merges the LC-A heritage of shooting from the hip with the handmade craftsmanship of the Lomography Art Lens family. Compatible across a large platform of analogue and digital cameras, the Lomo LC-A Minitar-1 Art Lens offers freedom over LC-A optics like never before."

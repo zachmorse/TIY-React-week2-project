@@ -9,9 +9,8 @@ let styles = {
     padding: "0rem 2rem"
   },
   container: {
-    height: "300",
-    padding: "1rem 2rem 1rem 0rem",
-    border: "1px solid red"
+    height: 300,
+    padding: "1rem 2rem 1rem 0rem"
   }
 };
 
@@ -33,13 +32,13 @@ export default class Cameras extends Component {
               <h1 style={{ margin: 0 }}>
                 {cameras.model}
               </h1>
-              <p>
-                {cameras.price}
-              </p>
             </div>
 
             <p style={{ fontSize: "0.8em" }}>
               {cameras.description}
+            </p>
+            <p>
+              {cameras.price}
             </p>
           </div>
         </div>

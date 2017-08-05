@@ -12,6 +12,9 @@ let style = {
   }
 };
 
+// position: "fixed",
+// width: "100%"
+
 export default class Header extends Component {
   render() {
     return (
